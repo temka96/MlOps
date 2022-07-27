@@ -1,0 +1,28 @@
+[2022-07-27 14:18:10,769] {processor.py:162} INFO - Started process (PID=57) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:18:10,769] {processor.py:613} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2022-07-27 14:18:10,770] {logging_mixin.py:109} INFO - [2022-07-27 14:18:10,769] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:18:10,778] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:18:10,794] {logging_mixin.py:109} INFO - [2022-07-27 14:18:10,793] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-27 14:18:10,810] {logging_mixin.py:109} INFO - [2022-07-27 14:18:10,810] {dag.py:2306} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2022-07-25 00:00:00+00:00
+[2022-07-27 14:18:10,818] {processor.py:170} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.051 seconds
+[2022-07-27 14:18:40,909] {processor.py:162} INFO - Started process (PID=119) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:18:40,910] {processor.py:613} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2022-07-27 14:18:40,910] {logging_mixin.py:109} INFO - [2022-07-27 14:18:40,910] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:18:40,918] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:18:40,931] {logging_mixin.py:109} INFO - [2022-07-27 14:18:40,931] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-27 14:18:40,946] {logging_mixin.py:109} INFO - [2022-07-27 14:18:40,946] {dag.py:2306} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2022-07-25 00:00:00+00:00
+[2022-07-27 14:18:40,953] {processor.py:170} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.046 seconds
+[2022-07-27 14:19:11,123] {processor.py:162} INFO - Started process (PID=171) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:19:11,125] {processor.py:613} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2022-07-27 14:19:11,125] {logging_mixin.py:109} INFO - [2022-07-27 14:19:11,125] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:19:11,138] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:19:11,154] {logging_mixin.py:109} INFO - [2022-07-27 14:19:11,154] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-27 14:19:11,172] {logging_mixin.py:109} INFO - [2022-07-27 14:19:11,172] {dag.py:2306} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2022-07-25 00:00:00+00:00
+[2022-07-27 14:19:11,181] {processor.py:170} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.060 seconds
+[2022-07-27 14:19:41,332] {processor.py:162} INFO - Started process (PID=233) to work on /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:19:41,333] {processor.py:613} INFO - Processing file /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2022-07-27 14:19:41,333] {logging_mixin.py:109} INFO - [2022-07-27 14:19:41,333] {dagbag.py:496} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:19:41,340] {processor.py:623} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2022-07-27 14:19:41,353] {logging_mixin.py:109} INFO - [2022-07-27 14:19:41,353] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-27 14:19:41,368] {logging_mixin.py:109} INFO - [2022-07-27 14:19:41,368] {dag.py:2306} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2022-07-25 00:00:00+00:00
+[2022-07-27 14:19:41,375] {processor.py:170} INFO - Processing /home/airflow/.local/lib/python3.6/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.044 seconds
