@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "e6df54b5-6a0b-46d5-8f2e-1a622fc4d9d5",
+		"name": "test model",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22517476"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/seldon/seldon/iris-model/api/v1.0/doc/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"seldon",
+						"seldon",
+						"iris-model",
+						"api",
+						"v1.0",
+						"doc",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
