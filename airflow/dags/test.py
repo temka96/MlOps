@@ -23,4 +23,19 @@ with DAG(
         task_id='print_date',
         bash_command='date',
     )
+
+    t3 = BashOperator(
+        task_id='ls',
+        bash_command='ls -la',
+    )
+
+    t4 = BashOperator(
+        task_id='pwd',
+        bash_command='pwd',
+    )
+
     t1 >> t2
+    t1 >> t3
+    t3 >> t4
+    t2 >> t4
+
